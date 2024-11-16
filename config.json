@@ -1,4 +1,4 @@
 {
     "DATABASE": "email_automation.db",
-    "GROQ_API_KEY": "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"
+    "GROQ_API_KEY": "YOUR_GROQ_API_KEY"
 }
